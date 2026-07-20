@@ -102,8 +102,8 @@ export default function HeroSection() {
             View Projects
           </motion.button>
           <motion.a
-            href="/Yaksh_Teja_Resume.pdf"
-            download="Yaksh_Teja_Resume.pdf"
+            href="/Yaksh_Teja_Resume(3).pdf"
+            download="Yaksh_Teja_Resume(3).pdf"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 glass-card font-semibold rounded-xl hover:bg-secondary/50 transition-all flex items-center gap-2"
